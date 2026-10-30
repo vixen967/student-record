@@ -2,3 +2,4 @@ Student marks record - Hadia Bashir
 Student A: 231
 Student A: 231
 Student A: 231
+Student B: 163
